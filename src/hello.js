@@ -1,8 +1,7 @@
-export default class Hello {
+export default class {
   constructor(){}
 
-  sayHello() {
-    const hello = "Hello";
-    return hello;
+  hello() {
+    return "hello"
   }
 }

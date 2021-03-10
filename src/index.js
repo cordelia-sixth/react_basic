@@ -1,4 +1,4 @@
-import Greeting from './hello.js';
+import Hello from './hello.js';
 
-const greeting = new Greeting();
-alert(greeting.sayHello());
+const hello = new Hello();
+alert(hello.hello());
